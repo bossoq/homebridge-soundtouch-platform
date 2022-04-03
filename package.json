@@ -24,11 +24,11 @@
   "author": "bbriatte",
   "license": "BSD",
   "dependencies": {
-    "homebridge-base-platform": "^1.4.2",
-    "soundtouch-api": "^1.0.15"
+    "homebridge-base-platform": "^1.4.4",
+    "soundtouch-api": "^1.1.0"
   },
   "devDependencies": {
     "@types/node": "^14.6.4",
-    "homebridge": "^1.1.6"
+    "homebridge": "^1.4.0"
   }
 }
